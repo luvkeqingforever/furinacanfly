@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//hi
 public class Ghost : MonoBehaviour
 {
     public float attack_Timer;
